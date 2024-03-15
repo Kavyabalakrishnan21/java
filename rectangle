@@ -11,3 +11,5 @@ l=input.nextInt();
 b=input.nextInt();
 area=l*b;
 System.out.println("area of rectangle is"+area);
+}
+}
