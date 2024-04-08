@@ -60,7 +60,7 @@ class matrix {
         first.display_matrix();
         second.display_matrix();
 
-                        System.out.println("......SUM MATRIX.......");
+                        System.out.println("......SUBSTRATION MATRIX.......");
                                 temp.display_matrix();
                                        System.out.println("......END.......");
                                             }
