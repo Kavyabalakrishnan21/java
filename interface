@@ -1,0 +1,18 @@
+interface printable{
+void print();
+}
+interface showable{
+void show();
+}
+class kaa implements printable,showable{
+public void print(){System.out.println("hello");}
+public void show(){System.out.println("welcome");}
+
+public static void main(String args[]){
+kaa obj = new kaa();
+obj.print();
+obj.show();
+}}
+~
+~
+~
