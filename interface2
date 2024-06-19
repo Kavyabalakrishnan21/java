@@ -1,0 +1,11 @@
+interface printable{
+void print();
+}
+class kav implements printable{
+public void print(){System.out.println("hello");}
+
+public static void main(String args[]){
+kav obj = new kav();
+obj.print();
+}}
+~
